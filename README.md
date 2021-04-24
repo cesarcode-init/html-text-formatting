@@ -27,13 +27,13 @@ Using appropriate HTML tags comes with a lot of advantages. You can't skip these
 
 Using appropriate semantic tags will help blind people listen to web pages. How does that happen? A software called _screen reader_ does that job. It reads your HTML structural semantics out loud to them and allows them to become aware of what is happening at that moment. It guides them, so you need to be careful how to employ HTML semantics. Misplacing them can sometimes lead to grave consequences.
 
-## Text Formatting
+### Text Formatting
 
 It is not uncommon to think about text formatting tags or exclusively semantic tags as a mere text presentation. Whilst this thought isn't correct, we should keep in mind how important it is to use appropriate HTML tags at the right time and in the right place to render web pages informative, hence, semantically relevant. We often use CSS to achieve great presentations of web pages.
 
 [back to sub-guide](#text-formatting-sub-guide)
 
-## Bold
+### Bold
 
 We use `<b>` tags to make texts **bold**. This tag stands for `bold`. It targets how the text should _look_.
 
@@ -56,7 +56,7 @@ Note that experts recommend using `<strong>` over `<b>`. It does matter for visu
 
 [back to sub-guide](#text-formatting-sub-guide)
 
-## Italics
+### Italics
 
 We use `<i>` tags to make texts _italic_. This tag stands for `italics`.
 
@@ -87,7 +87,7 @@ Note that experts recommend using `<em>` over `<i>`. It does matter for visually
 
 [back to sub-guide](#text-formatting-sub-guide)
 
-## Underline
+### Underline
 
 We use `<u>` tags to underline a text. The `<u>` tag stands for `underline`.
 
@@ -103,7 +103,7 @@ We use `<ins>` tags to underline a specific text. This tag stands for `insert`. 
 
 [back to sub-guide](#text-formatting-sub-guide)
 
-## Strikethrough
+### Strikethrough
 
 We use `<s>` tags to ~~strike a text through~~. This tag stands for `strikethrough`.
 
@@ -121,7 +121,7 @@ The distinction between both of them, we use `<s>` tags when we want to showcase
 
 [back to sub-guide](#text-formatting-sub-guide)
 
-## Highlighting Texts
+### Highlighting Texts
 
 We use `<mark>` tags to highlight a text. This tag highlights the text as it uses the yellow colour.
 
@@ -131,7 +131,7 @@ We use `<mark>` tags to highlight a text. This tag highlights the text as it use
 
 [back to sub-guide](#text-formatting-sub-guide)
 
-## Small Texts
+### Small Texts
 
 We use `<small>` tags to make a text smaller than its usual size.
 
@@ -141,7 +141,7 @@ We use `<small>` tags to make a text smaller than its usual size.
 
 [back to sub-guide](#text-formatting-sub-guide)
 
-## Subscript Texts
+### Subscript Texts
 
 We use `<sub>` tags to make a text lower and smaller than the main text. This tag stands for `subscript`.
 
@@ -151,7 +151,7 @@ We use `<sub>` tags to make a text lower and smaller than the main text. This ta
 
 [back to sub-guide](#text-formatting-sub-guide)
 
-## Superscript Texts
+### Superscript Texts
 
 We use `<sup>` tags to make a text higher and smaller than the main text. This tag stands for `superscript`.
 
@@ -161,7 +161,7 @@ We use `<sup>` tags to make a text higher and smaller than the main text. This t
 
 [back to sub-guide](#text-formatting-sub-guide)
 
-## Program Output
+### Program Output
 
 We use `<samp>` tags to declare that the text is an output from a computer program. It stands for `sample`. The first you will notice is the font of the text enclosed between this tag changes into `monotype`.
 
@@ -171,7 +171,7 @@ We use `<samp>` tags to declare that the text is an output from a computer progr
 
 [back to sub-guide](#text-formatting-sub-guide)
 
-## Keyboard Keys
+### Keyboard Keys
 
 We use `<kbd>` tags to enclose `keys` that belong to a keyboard.
 
@@ -181,7 +181,7 @@ We use `<kbd>` tags to enclose `keys` that belong to a keyboard.
 
 [back to sub-guide](#text-formatting-sub-guide)
 
-## Variables
+### Variables
 
 We use `<var>` tags to enclose mathematical variables.
 
